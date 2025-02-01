@@ -41,3 +41,5 @@ sh ./scripts/run_propose_args_search_aggregated_chatgpt_race.sh
 ```console
 sh ./scripts/run_process_data.sh
 ```
+
+## Running T2I Model Evaluation Using DoFaiR
