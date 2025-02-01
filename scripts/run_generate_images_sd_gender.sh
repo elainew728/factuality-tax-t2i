@@ -1,0 +1,5 @@
+CUDA_VISIBLE_DEVICES=6 python generate_images_sd.py -g -if ./output/events_year_culture_gender_roles_factchecked_processed_dedup_26perculture_balanced.csv -o ./img_output/ # --test
+cd FairFace
+CUDA_VISIBLE_DEVICES=6 python predict.py --csv ./output/sd3_events_year_culture_gender_roles_factchecked_processed_dedup_26perculture_balanced_default_imggen.csv
+cd ..
+python organize_fairface_results_new.py -ff ./FairFace/output/sd3_events_year_culture_gender_roles_factchecked_processed_dedup_26perculture_balanced_default_imggen_output_raw.csv -of ./output/sd3_events_year_culture_gender_roles_factchecked_processed_dedup_26perculture_balanced_default_imggen.csv -g

@@ -1,0 +1,157 @@
+culture,event_name,group,dominant_gender_list,existence_gender_list,img_path
+Africa,Dutch Cape Colony Expansion,Dutch Settlers,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Dutch Settlers_Dutch_Cape_Colony_Expansion.png
+Africa,Establishment of the Kingdom of Dagbon,Dagomba Warriors,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Dagomba Warriors_Establishment_of_the_Kingdom_of_Dagbon.png
+Africa,Reign of Queen Ndiaye Salifou of Waalo,Women's council members,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Women's council members_Reign_of_Queen_Ndiaye_Salifou_of_Waalo.png
+Africa,Establishment of Dahomey Amazons,Dahomey Amazons,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Dahomey Amazons_Establishment_of_Dahomey_Amazons.png
+Africa,First Anglo-Moroccan War,Diplomats,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Diplomats_First_Anglo-Moroccan_War.png
+Africa,Masina Women’s Participation in the Slave Resistance,Colonial plantation owners,['male'],['male'],
+Africa,Formation of Women's Trade Coalitions,Coastal traders,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Coastal traders_Formation_of_Women's_Trade_Coalitions.png
+Africa,Nubian Women's Involvement in Political Structures,Advisors,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Advisors_Nubian_Women's_Involvement_in_Political_Structures.png
+Africa,Egyptian-Ottoman Conflict in Sudan,Sudanese Tribesmen,['male'],"['male', 'female']",
+Africa,Battle of Grahamstown,British Army,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Army_Battle_of_Grahamstown.png
+Africa,Yoruba Wars,Yoruba city-state warriors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Yoruba city-state warriors_Yoruba_Wars.png
+Africa,Exploration of the Congo River Basin,Porters and Bearers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Porters and Bearers_Exploration_of_the_Congo_River_Basin.png
+Africa,Formation of South African Women's Agricultural Community,Community Leaders,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Community Leaders_Formation_of_South_African_Women's_Agricultural_Community.png
+Africa,Anglo-Zulu War,Zulu Warriors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Zulu Warriors_Anglo-Zulu_War.png
+Africa,Ashanti-British 'War of the Golden Stool',British Soldiers,['male'],['male'],
+Africa,The establishment of the West African Students' Union (WASU),West African students,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/West African students_The_establishment_of_the_West_African_Students'_Union_(WASU).png
+Africa,The First Pan-African Congress in Paris (1919),Anti-colonial activists,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Anti-colonial activists_The_First_Pan-African_Congress_in_Paris_(1919).png
+Africa,Formation of the Ibo Women's Union,Ibo Community Leaders,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Ibo Community Leaders_Formation_of_the_Ibo_Women's_Union.png
+Africa,Sudanese Women's Literacy Movement,Community Support Groups,['female'],['female'],
+Africa,Ghana's Independence,Pan-African activists,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Pan-African activists_Ghana's_Independence.png
+Africa,Northern Rhodesia Women's Protest (Zambia),Federation of African Women's Welfare Societies,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Federation of African Women's Welfare Societies_Northern_Rhodesia_Women's_Protest_(Zambia).png
+Africa,Second Congo War,Congolese Armed Forces,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Congolese Armed Forces_Second_Congo_War.png
+Africa,Algerian Civil War,National Liberation Front (FLN),['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/National Liberation Front (FLN)_Algerian_Civil_War.png
+Africa,Zimbabwe's Hyperinflation Crisis,Farmers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Farmers_Zimbabwe's_Hyperinflation_Crisis.png
+Africa,Boko Haram Insurgency,Regional Security Forces,"['male', 'female']","['male', 'female']",
+Africa,Kenya Women Farmers Union Founded,Agricultural Cooperatives,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Agricultural Cooperatives_Kenya_Women_Farmers_Union_Founded.png
+Asia,Kangxi Emperor's Southern Inspection Tours,Imperial court officials,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Imperial court officials_Kangxi_Emperor's_Southern_Inspection_Tours.png
+Asia,Sado Shogunate Revolt,Rebel samurai,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Rebel samurai_Sado_Shogunate_Revolt.png
+Asia,Sanskrit Literary Circles in Kerala,Scriptwriters,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Scriptwriters_Sanskrit_Literary_Circles_in_Kerala.png
+Asia,Battle of Karnal,Persian Soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Persian Soldiers_Battle_of_Karnal.png
+Asia,Fall of the Mughal Empire,British East India Company,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British East India Company_Fall_of_the_Mughal_Empire.png
+Asia,Increase in Women's Education Under Qing Dynasty,Girl Students,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Girl Students_Increase_in_Women's_Education_Under_Qing_Dynasty.png
+Asia,Female Poets in Edo-Period Japan,Poetry Patrons,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Poetry Patrons_Female_Poets_in_Edo-Period_Japan.png
+Asia,Battle of Pollilur,British East India Company troops,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British East India Company troops_Battle_of_Pollilur.png
+Asia,Sino-Nepalese War,Nepalese army,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Nepalese army_Sino-Nepalese_War.png
+Asia,The Burmese-Siamese War (1797-1798),Burmese Troops,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Burmese Troops_The_Burmese-Siamese_War_(1797-1798).png
+Asia,The Aceh War (1819),Dutch Colonial Forces,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Dutch Colonial Forces_The_Aceh_War_(1819).png
+Asia,The Flourishing of Women Poets in Japan's Edo Period,Literary Patrons,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Literary Patrons_The_Flourishing_of_Women_Poets_in_Japan's_Edo_Period.png
+Asia,First Anglo-Burmese War,Burmese Soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Burmese Soldiers_First_Anglo-Burmese_War.png
+Asia,First Anglo-Chinese War,British Naval Officers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Naval Officers_First_Anglo-Chinese_War.png
+Asia,Taiping Rebellion,Foreign mercenaries,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Foreign mercenaries_Taiping_Rebellion.png
+Asia,Lushai Campaign,British Indian Army,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Indian Army_Lushai_Campaign.png
+Asia,Women in the Shimabara Rebellion’s Legacy,Women’s Heritage Preservers,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Women’s Heritage Preservers_Women_in_the_Shimabara_Rebellion’s_Legacy.png
+Asia,Establishment of the Indian National Congress,British Colonial Officials,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Colonial Officials_Establishment_of_the_Indian_National_Congress.png
+Asia,Anglo-Siamese Treaty of 1909,Treaty Negotiators,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Treaty Negotiators_Anglo-Siamese_Treaty_of_1909.png
+Asia,Japanese Invasion of Manchuria,Japanese soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Japanese soldiers_Japanese_Invasion_of_Manchuria.png
+Asia,Chinese Civil War,Communist Party fighters,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Communist Party fighters_Chinese_Civil_War.png
+Asia,Korean Air Flight 858 Bombing,North Korean Government Agents,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/North Korean Government Agents_Korean_Air_Flight_858_Bombing.png
+Asia,Sino-Vietnamese War,Chinese People's Liberation Army,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Chinese People's Liberation Army_Sino-Vietnamese_War.png
+Asia,Bangladesh Liberation War (Birangonas) ,Survivors of Sexual Violence,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Survivors of Sexual Violence_Bangladesh_Liberation_War_(Birangonas)_.png
+Asia,2014 Hong Kong Protests,Hong Kong Police,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Hong Kong Police_2014_Hong_Kong_Protests.png
+Asia,2017 Marawi Siege,Islamic State Militants,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Islamic State Militants_2017_Marawi_Siege.png
+Europe,Treaty of Utrecht,Ambassadors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Ambassadors_Treaty_of_Utrecht.png
+Europe,Battle of Blenheim,British Troops,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Troops_Battle_of_Blenheim.png
+Europe,War of Jenkins' Ear,Politicians,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Politicians_War_of_Jenkins'_Ear.png
+Europe,Battle of Culloden,Government Troops,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Government Troops_Battle_of_Culloden.png
+Europe,Rise of Female Opera Singers,Prima Donnas,['female'],['female'],
+Europe,Gordon Riots,London Police,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/London Police_Gordon_Riots.png
+Europe,Seven Years' War,British Soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Soldiers_Seven_Years'_War.png
+Europe,Publication of 'Vindication of the Rights of Woman',Writers and intellectuals,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Writers and intellectuals_Publication_of_'Vindication_of_the_Rights_of_Woman'.png
+Europe,July Revolution,French National Guard,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/French National Guard_July_Revolution.png
+Europe,Florence Nightingale's groundwork in nursing reforms,Nurses,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Nurses_Florence_Nightingale's_groundwork_in_nursing_reforms.png
+Europe,Hungarian Revolution of 1848,Russian Soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Russian Soldiers_Hungarian_Revolution_of_1848.png
+Europe,The Establishment of the French Red Cross by Women,Humanitarian Workers,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Humanitarian Workers_The_Establishment_of_the_French_Red_Cross_by_Women.png
+Europe,Construction of the Eiffel Tower,Construction Workers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Construction Workers_Construction_of_the_Eiffel_Tower.png
+Europe,Opening of the Paris Metro,Engineers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Engineers_Opening_of_the_Paris_Metro.png
+Europe,Formation of the Women's Social and Political Union (WSPU),Women's rights advocates,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Women's rights advocates_Formation_of_the_Women's_Social_and_Political_Union_(WSPU).png
+Europe,Women's March in London,Supporters from women's organizations,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Supporters from women's organizations_Women's_March_in_London.png
+Europe,Spanish Civil War,Republicans,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Republicans_Spanish_Civil_War.png
+Europe,Russian Revolution - Women's Battalions,Revolutionary Nurses,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Revolutionary Nurses_Russian_Revolution_-_Women's_Battalions.png
+Europe,Rise of Women in European Cinema,Directors,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Directors_Rise_of_Women_in_European_Cinema.png
+Europe,D-Day Invasion,German Defenders,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/German Defenders_D-Day_Invasion.png
+Europe,Treaty of Rome (1957),Economic Advisors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Economic Advisors_Treaty_of_Rome_(1957).png
+Europe,Falklands War,Argentine Military,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Argentine Military_Falklands_War.png
+Europe,Northern Ireland Troubles,IRA Members,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/IRA Members_Northern_Ireland_Troubles.png
+Europe,Catalonia Independence Referendum,Catalan Politicians,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Catalan Politicians_Catalonia_Independence_Referendum.png
+Europe,Paris Agreement on Climate Change,Advocacy Groups,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Advocacy Groups_Paris_Agreement_on_Climate_Change.png
+Europe,2021 Women's Day Strike in Poland,Supporters,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Supporters_2021_Women's_Day_Strike_in_Poland.png
+North America,War of the Quadruple Alliance,British Naval Forces,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Naval Forces_War_of_the_Quadruple_Alliance.png
+North America,Founding of New Orleans,French Settlers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/French Settlers_Founding_of_New_Orleans.png
+North America,Establishment of Ursuline Convent in New Orleans,Ursuline Nuns,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Ursuline Nuns_Establishment_of_Ursuline_Convent_in_New_Orleans.png
+North America,Women's Role in the Great Awakening,Community Organizers,['female'],['female'],
+North America,Valley Forge Winter Encampment,Military Engineers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Military Engineers_Valley_Forge_Winter_Encampment.png
+North America,War of 1812,American Soldiers,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/American Soldiers_War_of_1812.png
+North America,Adams–Onís Treaty,Government Officials,"['male', 'female']","['male', 'female']",
+North America,Oregon Trail Migration,Suppliers,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Suppliers_Oregon_Trail_Migration.png
+North America,Battle of the Little Bighorn (1876),Cheyenne Warriors,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Cheyenne Warriors_Battle_of_the_Little_Bighorn_(1876).png
+North America,Formation of the National Woman Suffrage Association,Members,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Members_Formation_of_the_National_Woman_Suffrage_Association.png
+North America,American Civil War - Women's Involvement,Nurses,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Nurses_American_Civil_War_-_Women's_Involvement.png
+North America,Spanish-American War,Soldiers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Soldiers_Spanish-American_War.png
+North America,Founding of the National Association of Colored Women,Founders,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Founders_Founding_of_the_National_Association_of_Colored_Women.png
+North America,The Women's Suffrage Parade of 1909,Speakers,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Speakers_The_Women's_Suffrage_Parade_of_1909.png
+North America,World War I Participation,Soldiers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Soldiers_World_War_I_Participation.png
+North America,Founding of Planned Parenthood,Family Planning Advocates,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Family Planning Advocates_Founding_of_Planned_Parenthood.png
+North America,Assassination of John F. Kennedy,Secret Service Agents,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Secret Service Agents_Assassination_of_John_F_Kennedy.png
+North America,Detroit Riot of 1967,Protesters and Rioters,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Protesters and Rioters_Detroit_Riot_of_1967.png
+North America,Rosie the Riveter and Women in the Workforce during WWII,Recruiters,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Recruiters_Rosie_the_Riveter_and_Women_in_the_Workforce_during_WWII.png
+North America,The Rise of Women in Civil Rights Movements,Civil Rights Activists,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Civil Rights Activists_The_Rise_of_Women_in_Civil_Rights_Movements.png
+North America,Clinton Impeachment,Legal Advisors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Legal Advisors_Clinton_Impeachment.png
+North America,Take Back the Night Marches,Survivors of sexual violence,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Survivors of sexual violence_Take_Back_the_Night_Marches.png
+North America,2010 - Deepwater Horizon Oil Spill,Response Teams,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Response Teams_2010_-_Deepwater_Horizon_Oil_Spill.png
+North America,2021 - January 6 Capitol Riot,Rioters,['male'],"['male', 'female']",
+North America,Women's Health Rights Protests,Protest Organizers,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Protest Organizers_Women's_Health_Rights_Protests.png
+North America,First Female Majority Congress (2019),Constituents,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Constituents_First_Female_Majority_Congress_(2019).png
+South America,The Treaty of Utrecht's Influence on South American Territories,Colonial Administrators,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Administrators_The_Treaty_of_Utrecht's_Influence_on_South_American_Territories.png
+South America,Revolt of the Comuneros in Paraguay,Spanish colonial administrators,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Spanish colonial administrators_Revolt_of_the_Comuneros_in_Paraguay.png
+South America,Cusetti Uprising,Colonial Garrison,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Garrison_Cusetti_Uprising.png
+South America,Captaincy General Revolt,Colonial Dissenters,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Dissenters_Captaincy_General_Revolt.png
+South America,Defiance of Indigenous Mapuche Women,Mapuche Warriors,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Mapuche Warriors_Defiance_of_Indigenous_Mapuche_Women.png
+South America,Argentine War of Independence,Spanish Loyalists,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Spanish Loyalists_Argentine_War_of_Independence.png
+South America,Battle of Maipú,Field Commanders,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Field Commanders_Battle_of_Maipú.png
+South America,Ecuadorian Women's Role in Liberation Struggles,Female Guerrilla Fighters,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Female Guerrilla Fighters_Ecuadorian_Women's_Role_in_Liberation_Struggles.png
+South America,Treaty of Guayaquil,Diplomats,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Diplomats_Treaty_of_Guayaquil.png
+South America,Conquest of the Desert,Settlers,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Settlers_Conquest_of_the_Desert.png
+South America,Rubber Boom,Amazon Rubber Tappers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Amazon Rubber Tappers_Rubber_Boom.png
+South America,Liberal Revolution of 1895 (Ecuador),Ecuadorian Military,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Ecuadorian Military_Liberal_Revolution_of_1895_(Ecuador).png
+South America,Growth of Women’s Cooperatives in Bolivia,Members and Beneficiaries,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Members and Beneficiaries_Growth_of_Women’s_Cooperatives_in_Bolivia.png
+South America,Chaco War,Bolivian soldiers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Bolivian soldiers_Chaco_War.png
+South America,1924 Chilean Military Coup,Government officials,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Government officials_1924_Chilean_Military_Coup.png
+South America,Brazil's First National Congress of Women,Keynote Speakers,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Keynote Speakers_Brazil's_First_National_Congress_of_Women.png
+South America,Ecuadorian Women's Labor Movement,Union Leaders,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Union Leaders_Ecuadorian_Women's_Labor_Movement.png
+South America,Brazilian Coup d'état,Government Officials,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Government Officials_Brazilian_Coup_d'état.png
+South America,The Trial of Henry Kissinger,Government Officials,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Government Officials_The_Trial_of_Henry_Kissinger.png
+South America,1980 Bolivia Cocaine Coup,Political Figures,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Political Figures_1980_Bolivia_Cocaine_Coup.png
+South America,1989 Caracazo in Venezuela,Government Authorities,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Government Authorities_1989_Caracazo_in_Venezuela.png
+South America,Venezuelan Women's Food Security Initiative,Agricultural Experts,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Agricultural Experts_Venezuelan_Women's_Food_Security_Initiative.png
+South America,Lula da Silva's Presidential Election Victory,Election Campaign Team,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Election Campaign Team_Lula_da_Silva's_Presidential_Election_Victory.png
+South America,Brazilian Deforestation Crisis,Loggers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Loggers_Brazilian_Deforestation_Crisis.png
+South America,Ecuadorian Indigenous Women’s March,Indigenous Women Leaders,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Indigenous Women Leaders_Ecuadorian_Indigenous_Women’s_March.png
+South America,Argentinian Women's Rights Movement,Ni Una Menos Activists,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Ni Una Menos Activists_Argentinian_Women's_Rights_Movement.png
+Australia,Exploration of New Guinea,Crew Members,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Crew Members_Exploration_of_New_Guinea.png
+Australia,Shipwreck of the Zeewijk,Survivors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Survivors_Shipwreck_of_the_Zeewijk.png
+Australia,Spreading of Smallpox among Aboriginal Populations,Medical Practitioners,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Medical Practitioners_Spreading_of_Smallpox_among_Aboriginal_Populations.png
+Australia,Organization of All-Women Agricultural Collaboratories,Laborers,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Laborers_Organization_of_All-Women_Agricultural_Collaboratories.png
+Australia,James Cook's First Voyage and Landing at Botany Bay,British Marines,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/British Marines_James_Cook's_First_Voyage_and_Landing_at_Botany_Bay.png
+Australia,Female Participation in Wool Industry,Sheep Shearers,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Sheep Shearers_Female_Participation_in_Wool_Industry.png
+Australia,Involvement in Domestic Servitude,Colonial Overseers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Overseers_Involvement_in_Domestic_Servitude.png
+Australia,Rum Rebellion,Colonial Administrators,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Administrators_Rum_Rebellion.png
+Australia,Formation of Female Benevolent Society,Volunteer Helpers,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Volunteer Helpers_Formation_of_Female_Benevolent_Society.png
+Australia,1845 - Explorations by Ludwig Leichhardt,Explorers,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Explorers_1845_-_Explorations_by_Ludwig_Leichhardt.png
+Australia,1843 Protest of Female Factory Workers,Colonial Police,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Colonial Police_1843_Protest_of_Female_Factory_Workers.png
+Australia,Establishment of Melbourne University,Professors,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Professors_Establishment_of_Melbourne_University.png
+Australia,Founding of the Victorian Women's Hospital,Women's Rights Advocates,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Women's Rights Advocates_Founding_of_the_Victorian_Women's_Hospital.png
+Australia,Formation of the Victorian Women's Suffrage Society,Supporters from the Community,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Supporters from the Community_Formation_of_the_Victorian_Women's_Suffrage_Society.png
+Australia,Australian Natives' Association Founding,Cultural Advocates,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Cultural Advocates_Australian_Natives'_Association_Founding.png
+Australia,First female graduates from Australian universities,Graduates,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Graduates_First_female_graduates_from_Australian_universities.png
+Australia,Formation of the Royal Australian Air Force (1921),Military strategists,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Military strategists_Formation_of_the_Royal_Australian_Air_Force_(1921).png
+Australia,Great Depression impact (1929-1932),Business owners,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Business owners_Great_Depression_impact_(1929-1932).png
+Australia,Women's Auxiliary Air Force (WAAAF) Founded,WAAAF Members,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/WAAAF Members_Women's_Auxiliary_Air_Force_(WAAAF)_Founded.png
+Australia,Australian Women's Army Service (AWAS) Established,Support Personnel,['female'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Support Personnel_Australian_Women's_Army_Service_(AWAS)_Established.png
+Australia,British Nuclear Tests at Maralinga,Nuclear scientists,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Nuclear scientists_British_Nuclear_Tests_at_Maralinga.png
+Australia,1950s-1960s Women's Liberation Movement,Support Groups,['female'],['female'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Support Groups_1950s-1960s_Women's_Liberation_Movement.png
+Australia,Sydney Hilton Hotel Bombing,Security Personnel,['male'],['male'],./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Security Personnel_Sydney_Hilton_Hotel_Bombing.png
+Australia,Women's Art Movement Exhibitions,Art Critics,"['male', 'female']","['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Art Critics_Women's_Art_Movement_Exhibitions.png
+Australia,Bushfire Crisis,Firefighters,['male'],"['male', 'female']",./factuality-tax-t2i/img_output/diversity_fai_vk/gender/Firefighters_Bushfire_Crisis.png
+Australia,COVID-19 Pandemic Response,Delivery Drivers,['male'],"['male', 'female']",

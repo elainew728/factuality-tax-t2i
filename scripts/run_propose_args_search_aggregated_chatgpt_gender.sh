@@ -1,0 +1,1 @@
+python propose_args_search_chatgpt_aggregated.py -g -w -if ./data/events_year_culture_gender_roles.csv -of ./data/events_year_culture_gender_roles_factchecked.jsonl --trim # --test

@@ -1,0 +1,1 @@
+python generate_events_by_years_cultures_demographics.py -r -of ./output/events_year_culture_race_roles_raw.csv
