@@ -37,3 +37,7 @@ sh ./scripts/run_propose_args_search_aggregated_chatgpt_gender.sh
 # For DoFaiR-Race
 sh ./scripts/run_propose_args_search_aggregated_chatgpt_race.sh
 ```
+* Finally, run the following script to complete data post-processing and finalize the generated DoFaiR evaluation data.
+```console
+sh ./scripts/run_process_data.sh
+```
