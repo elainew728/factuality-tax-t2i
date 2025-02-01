@@ -30,7 +30,7 @@ sh ./scripts/run_organize_event_roles_race.sh
 ```
 
 #### Step 2 & 3: Query Generation, Fact-Checking, and Gold Demographic Distribution Labeling
-* To obtain fact-verified ground truth demographic distribution for the events generated, use the following commands to run the query generation and fact-checking pipeline:
+* To obtain the fact-verified ground truth demographic distribution for the events generated, use the following commands to run the query generation and fact-checking pipeline:
 ```console
 # For DoFaiR-Gender
 sh ./scripts/run_propose_args_search_aggregated_chatgpt_gender.sh
