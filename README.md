@@ -21,3 +21,13 @@ sh ./scripts/run_generate_events_by_years_cultures_gender.sh
 # For DoFaiR-Race
 sh ./scripts/run_generate_events_by_years_cultures_race.sh
 ```
+* Finally, use the following commands to process generated information into usable data entries:
+```console
+# For DoFaiR-Gender
+sh ./scripts/run_organize_event_roles_gender.sh
+# For DoFaiR-Race
+sh ./scripts/run_organize_event_roles_race.sh
+```
+
+#### Step 2 & 3: Query Generation, Fact-Checking， and Gold Demographic Distribution Labeling
+* To run the fact-checking pipeline with query generation, fact 
