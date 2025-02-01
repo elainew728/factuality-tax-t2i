@@ -12,7 +12,7 @@ The data construction pipeline of DoFaiR adopts an iterative loop consisting of 
 
 Alternatively, in the ```./data/``` folder, we provide the final version of the cleaned and fact-checked DoFaiR dataset that you can directly use for evaluation.
 
-#### Generating Raw Historical Events
+#### Step 1: Generating Raw Historical Events
 * To run data generation for DoFaiR-Gender and DoFaiR-Race, first add your OpenAI account configurations in ```./generation_util.py```.
 * Then, run the following commands to first generate raw events and participants from seed information:
 ```console
